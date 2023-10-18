@@ -1,0 +1,12 @@
+-git add . per aggiungere i file a git
+-git ignore per ignorare un file da inseire .gitignore per aggiungere al suo interno 
+il nome del file da ignorare tipo note.txt oppure *.txt 
+(per tutti i file di formato .txt) 
+
+-git commit per creare un "salvataggio" 
+-git log per sapere se ci sono salvataggi 
+-git checkout "codice commit" per tornare al vecchio "salvataggio"
+
+-git init 
+-git status 
+-git commit -m "" per creare un "salvataggio" 
